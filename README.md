@@ -1,4 +1,4 @@
-# [EXPLOIT] PRTG Network Monitor  - Denial of Service: Jewish Napalm
+# [EXPLOIT] PRTG Network Monitor  - Denial of Service
 References:
 https://www.exploit-db.com/exploits/44500
 https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2018-10253
